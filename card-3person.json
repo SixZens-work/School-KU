@@ -1,1 +1,32 @@
-
+ [
+  {
+    "name": "Tanapat",
+    "role": "Me",
+    "image": "https://img2.pic.in.th/pic/460955552_1499263917385295_777125591078092603_n.jpg",
+    "description": "Tanapat Su-angkha",
+    "email": "tanapat.works@gmail.com",
+    "phone": "096-753-0839",
+    "faculty": "Science at Sriracha",
+    "major": "Digital Science and Technology"
+  },
+  {
+    "name": "Chattarin",
+    "role": "Friends",
+    "image": "https://img5.pic.in.th/file/secure-sv1/312350550_1575133789571024_7531991881536148826_n.jpg",
+    "description": "Chattarin Kaewkotchasan",
+    "email": "chattarin.k@ku.th",
+    "phone": "-",
+    "faculty": "Science at Sriracha",
+    "major": "Digital Science and Technology"
+  },
+  {
+    "name": "Phufa",
+    "role": "Friends",
+    "image": "https://img5.pic.in.th/file/secure-sv1/308810790_1120813495307606_4015393250552612_n.jpg",
+    "description": "Phufa Srinatnava",
+    "email": "phufa.s@ku.th",
+    "phone": "-",
+    "faculty": "Science at Sriracha",
+    "major": "Digital Science and Technology"
+  }
+]
